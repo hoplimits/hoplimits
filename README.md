@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hoplimits
+- 👀 I’m interested in Android Bootloader Development
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to collaborate on SAMSUNG & XIAOMI bootloaders.
+- 📫 How to reach me just tag me somwhere and ill get in touch.
